@@ -1,6 +1,6 @@
 <h1 align="center">Hi, I'm Yash Mehta 👋 (aka MattMehta10)</h1>
 <p align="center">
-  <em>B.Tech Student | Aspiring Full Stack Developer | Problem Solver | Designer</em>
+  <em>B.Tech Student | Full Stack Developer | Problem Solver | Designer</em>
 </p>
 
 ---
@@ -11,7 +11,7 @@
 - 💡 Love developing solutions to real-world problems and designing intuitive interfaces
 - ⚡ Passionate about coding, music, and creative design
 - 🌱 Currently learning Backend Development
-- 💭 Aspiring Full Stack Developer
+- 💭 Full Stack Developer
 
 ---
 
