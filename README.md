@@ -41,8 +41,7 @@
 
 ---
 
-### 🌟 Fun Facts
-
+### 🌟 More About me
 - 💻 Love coding and building new things
 - 🎶 Enjoy music and creative designing
 - 🚀 Always eager to learn and take on new challenges
